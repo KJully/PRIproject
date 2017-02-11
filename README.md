@@ -3,7 +3,7 @@
 This is a EPITA school Project. All rights are reserved to EPITA School,
 94270 Le Kremlin-Bicêtre, France.
 
-## Members
+## Members 
 
 * Nawras ALHELI
 * Thomas JOSEPH
@@ -13,25 +13,18 @@ This is a EPITA school Project. All rights are reserved to EPITA School,
 
 ## TO DO:
 
-### Choose the main subject of the serious game project
+#### Documentation Part
 
-There are some example:
-  * Drugs addictions
-  * Recycling
-  * Learn Algorithmic
-  * Good practices against epidemics
-  * First Aid
-  * Another subject
+* Matthieu LOBRY - Outlines and six facets
+* Nawras ALHELI & Thomas JOSEPH - Documentation and Spec
 
-### Fill the six facets of Serious Games
+Outlines to Help documentation part will be on outlines\_doc.md
 
-You can find these [http://seriousgames.lip6.fr/site/IMG/pdf/bertrand-marne-poster-gbl2011.pdf](here)
+#### Technical part
 
-The content of our six facets will be in sixFacets.md
+* Matthieu LOBRY - Set Unity Environment, Architecture, Assets, GUI
+* Junaid KHALID - Menu, GUI
+* Kévin JULLY - Game system
 
-### Set the Environment Unity Environment on the Git
-
-It will be easier to dev when the Environment will be on and set in our
-computers
-
-### Create the game scenario
+Outlines to Help Technical part will be on outline\_tec.md .
+A conf will be plan to discuss about the architecture
