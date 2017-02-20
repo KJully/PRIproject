@@ -1,0 +1,1585 @@
+fileFormatVersion: 2
+guid: 47c63f15b7e3e3b49a58566c4d38cbab
+timeCreated: 1472419535
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: base1
+    21300002: base2
+    21300004: base3
+    21300006: base4
+    21300008: base5
+    21300010: base6
+    21300012: base7
+    21300014: base8
+    21300016: base9
+    21300018: base10
+    21300020: base11
+    21300022: base12
+    21300024: base13
+    21300026: base14
+    21300028: base15
+    21300030: base16
+    21300032: base17
+    21300034: base18
+    21300036: base19
+    21300038: base20
+    21300040: base21
+    21300042: base22
+    21300044: base23
+    21300046: base24
+    21300048: base25
+    21300050: base26
+    21300052: base27
+    21300054: base28
+    21300056: building1
+    21300058: building2
+    21300060: building3
+    21300062: building4
+    21300064: building5
+    21300066: building6
+    21300068: building7
+    21300070: building8
+    21300072: building9
+    21300074: building10
+    21300076: building11
+    21300078: building12
+    21300080: green0
+    21300082: green1
+    21300084: green2
+    21300086: green3
+    21300088: green4
+    21300090: green5
+    21300092: green6
+    21300094: green7
+    21300096: green8
+    21300098: road0000
+    21300100: road0001
+    21300102: road0010
+    21300104: road0011
+    21300106: road0100
+    21300108: road0101
+    21300110: road0110
+    21300112: road0111
+    21300114: road1000
+    21300116: road1001
+    21300118: road1010
+    21300120: road1011
+    21300122: road1100
+    21300124: road1101
+    21300126: road1110
+    21300128: road1111
+    21300130: roadSlope1
+    21300132: roadSlope2
+    21300134: roadSlope3
+    21300136: roadSlope4
+    21300138: roof1
+    21300140: roof2
+    21300142: roof3
+    21300144: roof4
+    21300146: roof5
+    21300148: roof6
+    21300150: roof7
+    21300152: roof8
+    21300154: roof9
+    21300156: roof10
+    21300158: roof11
+    21300160: roof12
+    21300162: roof13
+    21300164: roof14
+    21300166: roof15
+    21300168: roof16
+    21300170: roof17
+    21300172: roof18
+    21300174: roof19
+    21300176: roof20
+    21300178: water0000
+    21300180: water0001
+    21300182: water0010
+    21300184: water0011
+    21300186: water0100
+    21300188: water0101
+    21300190: water0110
+    21300192: water0111
+    21300194: water1000
+    21300196: water1001
+    21300198: water1010
+    21300200: water1011
+    21300202: water1100
+    21300204: water1101
+    21300206: water1110
+    21300208: water1111
+    21300210: waterSlope1
+    21300212: waterSlope2
+    21300214: waterSlope3
+    21300216: waterSlope4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: base1
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 258
+        width: 132
+        height: 127
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: base2
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1
+        width: 132
+        height: 130
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: base3
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 258
+        width: 132
+        height: 127
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: base4
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1
+        width: 132
+        height: 130
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: base5
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 258
+        width: 132
+        height: 127
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: base6
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 131
+        width: 132
+        height: 127
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: base7
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 131
+        width: 133
+        height: 127
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: base8
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 131
+        width: 133
+        height: 127
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: base9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 133
+        height: 127
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: base10
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 131
+        width: 132
+        height: 127
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: base11
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 131
+        width: 132
+        height: 127
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: base12
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 131
+        width: 132
+        height: 127
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: base13
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 258
+        width: 132
+        height: 127
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: base14
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 4
+        width: 133
+        height: 127
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: base15
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 131
+        width: 133
+        height: 127
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: base16
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 131
+        width: 133
+        height: 127
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: base17
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 258
+        width: 132
+        height: 127
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: base18
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 3
+        width: 132
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: base19
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 3
+        width: 132
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: base20
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 131
+        width: 132
+        height: 127
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: base21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 131
+        width: 132
+        height: 127
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: base22
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 258
+        width: 132
+        height: 127
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: base23
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 131
+        width: 132
+        height: 127
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: base24
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 258
+        width: 132
+        height: 127
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: base25
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 4
+        width: 133
+        height: 127
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: base26
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 131
+        width: 132
+        height: 127
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: base27
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 131
+        width: 133
+        height: 127
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: base28
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 131
+        width: 133
+        height: 127
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: building1
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 583
+        width: 99
+        height: 85
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: building2
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 583
+        width: 99
+        height: 85
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: building3
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 583
+        width: 99
+        height: 85
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: building4
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 583
+        width: 99
+        height: 85
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: building5
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 583
+        width: 99
+        height: 85
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: building6
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 583
+        width: 99
+        height: 85
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: building7
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 583
+        width: 99
+        height: 85
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: building8
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 583
+        width: 100
+        height: 85
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: building9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 583
+        width: 99
+        height: 85
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: building10
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 583
+        width: 100
+        height: 85
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: building11
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 583
+        width: 99
+        height: 85
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: building12
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 583
+        width: 100
+        height: 85
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: green0
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 385
+        width: 132
+        height: 99
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: green1
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 0
+        width: 132
+        height: 131
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: green2
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 0
+        width: 132
+        height: 131
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: green3
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 385
+        width: 132
+        height: 99
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: green4
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 385
+        width: 132
+        height: 99
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: green5
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 385
+        width: 132
+        height: 99
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: green6
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 385
+        width: 132
+        height: 99
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: green7
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 286
+        width: 132
+        height: 99
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: green8
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 0
+        width: 132
+        height: 131
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road0000
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 286
+        width: 132
+        height: 99
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road0001
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 385
+        width: 132
+        height: 99
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road0010
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 286
+        width: 132
+        height: 99
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road0011
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 385
+        width: 132
+        height: 99
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road0100
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 385
+        width: 132
+        height: 99
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road0101
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 484
+        width: 132
+        height: 99
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road0110
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 484
+        width: 132
+        height: 99
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road0111
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 385
+        width: 132
+        height: 99
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road1000
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 484
+        width: 132
+        height: 99
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road1001
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 485
+        width: 132
+        height: 98
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road1010
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 484
+        width: 132
+        height: 99
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road1011
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 484
+        width: 132
+        height: 99
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road1100
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 484
+        width: 132
+        height: 99
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road1101
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 484
+        width: 132
+        height: 99
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road1110
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 484
+        width: 132
+        height: 99
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: road1111
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 385
+        width: 132
+        height: 99
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: roadSlope1
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 0
+        width: 132
+        height: 131
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: roadSlope2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 385
+        width: 132
+        height: 99
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: roadSlope3
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 484
+        width: 132
+        height: 99
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: roadSlope4
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 0
+        width: 132
+        height: 131
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: roof1
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 669
+        width: 99
+        height: 60
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: roof2
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 669
+        width: 99
+        height: 60
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: roof3
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 669
+        width: 99
+        height: 60
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: roof4
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 669
+        width: 99
+        height: 60
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: roof5
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 669
+        width: 99
+        height: 60
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: roof6
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 669
+        width: 99
+        height: 60
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: roof7
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 668
+        width: 99
+        height: 61
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: roof8
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 668
+        width: 99
+        height: 61
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: roof9
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 669
+        width: 99
+        height: 60
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: roof10
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 669
+        width: 99
+        height: 60
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: roof11
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 668
+        width: 99
+        height: 61
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: roof12
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 668
+        width: 99
+        height: 61
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: roof13
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 669
+        width: 99
+        height: 60
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: roof14
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 669
+        width: 99
+        height: 60
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: roof15
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 668
+        width: 99
+        height: 61
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: roof16
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 668
+        width: 99
+        height: 61
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: roof17
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 674
+        width: 99
+        height: 55
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: roof18
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 675
+        width: 99
+        height: 54
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: roof19
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 675
+        width: 99
+        height: 54
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: roof20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 675
+        width: 99
+        height: 54
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: water0000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 132
+        height: 83
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: water0001
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 500
+        width: 132
+        height: 83
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: water0010
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 484
+        width: 132
+        height: 99
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: water0011
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 286
+        width: 133
+        height: 99
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: water0100
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 385
+        width: 132
+        height: 99
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: water0101
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 286
+        width: 133
+        height: 99
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: water0110
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 385
+        width: 132
+        height: 99
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: water0111
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 385
+        width: 132
+        height: 99
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: water1000
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 585
+        width: 132
+        height: 83
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: water1001
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 585
+        width: 132
+        height: 83
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: water1010
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 286
+        width: 133
+        height: 99
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: water1011
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 585
+        width: 132
+        height: 83
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: water1100
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 385
+        width: 132
+        height: 99
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: water1101
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 585
+        width: 132
+        height: 83
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: water1110
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 484
+        width: 132
+        height: 99
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: water1111
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 585
+        width: 132
+        height: 83
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: waterSlope1
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 0
+        width: 132
+        height: 131
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: waterSlope2
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 286
+        width: 133
+        height: 99
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: waterSlope3
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 484
+        width: 132
+        height: 99
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: waterSlope4
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 0
+        width: 132
+        height: 131
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

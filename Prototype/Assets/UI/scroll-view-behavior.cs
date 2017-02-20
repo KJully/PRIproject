@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class scroll-view-behavior : MonoBehaviour {
+public class ScrollViewBehavior : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {

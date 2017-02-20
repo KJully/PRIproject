@@ -2,7 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-public class Buildings : Singleton<Buildings> {
+public class Buildings
+{
 
     public List<Building> list = new List<Building>();
 

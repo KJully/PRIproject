@@ -1,7 +1,8 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 
-public class Scores : Singleton<Scores> {
+public class Scores
+{
 
 	// Use this for initialization
 	void Start () {

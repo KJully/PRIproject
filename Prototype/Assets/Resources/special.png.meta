@@ -1,0 +1,269 @@
+fileFormatVersion: 2
+guid: 44a6c1ed7457112438b0133cff6826a5
+timeCreated: 1471676573
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: park_aqua
+    21300002: park_green
+    21300004: park_pink
+    21300006: park_purple
+    21300008: park_red
+    21300010: park_yellow
+    21300012: sp_aqua
+    21300014: sp_blue
+    21300016: sp_green
+    21300018: sp_lightblue
+    21300020: sp_orange
+    21300022: sp_pink
+    21300024: sp_purple
+    21300026: sp_red
+    21300028: sp_yellow
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: park_aqua
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1617
+        width: 264
+        height: 256
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: park_green
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1617
+        width: 264
+        height: 256
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: park_pink
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1617
+        width: 264
+        height: 256
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: park_purple
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1617
+        width: 264
+        height: 256
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: park_red
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 1617
+        width: 264
+        height: 256
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: park_yellow
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1359
+        width: 264
+        height: 256
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sp_aqua
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 809
+        width: 264
+        height: 806
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sp_blue
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 809
+        width: 264
+        height: 806
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sp_green
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 809
+        width: 264
+        height: 806
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sp_lightblue
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 809
+        width: 264
+        height: 806
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sp_orange
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 264
+        height: 806
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sp_pink
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1
+        width: 264
+        height: 806
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sp_purple
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1
+        width: 264
+        height: 806
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sp_red
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1
+        width: 264
+        height: 806
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sp_yellow
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 1
+        width: 264
+        height: 806
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
