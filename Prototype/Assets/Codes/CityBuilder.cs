@@ -23,7 +23,7 @@ public class CityBuilder : MonoBehaviour {
     void Start () {
         SAVE_FILE_PATH = Application.dataPath + "/savegame.txt";
         loadGameData();
-        SceneManager.LoadScene("guiScene");
+        SceneManager.LoadScene("guiScene", LoadSceneMode.Additive);
         if(loadedData != null) {
             RandomMapGenerator.getInstance().loadHeightMap(loadedData.getHeightMap());
         }
